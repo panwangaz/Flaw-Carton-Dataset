@@ -6,3 +6,6 @@ Some pictures and labels show as follows.
 ![DVNYGBW)NJ8KSA6O09Y{Y72](https://user-images.githubusercontent.com/75424205/147824575-361c81b2-aeb1-4a09-ab15-9fce0dd6a301.png)
 ![~W HBGC_J8QO@Z8MG5{L$N](https://user-images.githubusercontent.com/75424205/147824580-de5bd7ad-caf4-4cae-8112-ad1e65bf3176.png)
 ![9ESF%JFQ3JRRWKF$JA GLWO](https://user-images.githubusercontent.com/75424205/147824584-32b7f0b9-a988-4b6f-9f8b-f922dfb78341.png)
+The detect and segmentation results by Mask-rcnn-r50 show as follows.
+![Untitled](https://user-images.githubusercontent.com/75424205/147824915-0e6a31b8-f373-4132-98ea-c3b4d81a04c7.png)
+![Untitled](https://user-images.githubusercontent.com/75424205/147824979-89a1bd9c-5e32-4d1a-bcac-2dc797642019.png)
